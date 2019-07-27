@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25e8e5ea-9b40-406b-a2df-a4f0d38f9242" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ByteShortIntLong/com/wloszynski/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ByteShortIntLong/com/wloszynski/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wloszynski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wloszynski/Main.java" afterDir="false" />
+    <list default="true" id="668f1275-bb10-4d9b-8b38-45e0d5bcc4ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/out/production/ByteShortIntLong/com/wloszynski/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortIntLong/out/production/ByteShortIntLong/com/wloszynski/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortIntLong/src/com/wloszynski/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortIntLong/src/com/wloszynski/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,18 +13,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wloszynski/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>byte</find>
-      <find>Integer</find>
+      <find>float</find>
     </findStrings>
     <replaceStrings>
-      <replace>short</replace>
-      <replace>long</replace>
-      <replace>Long</replace>
+      <replace>double</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -41,7 +52,6 @@
     <option name="files">
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
       </list>
     </option>
   </component>
@@ -59,36 +69,10 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ByteShortIntLong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ByteShortIntLong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ByteShortIntLong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ByteShortIntLong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ByteShortIntLong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ByteShortIntLong" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wloszynski" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ByteShortIntLong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -107,7 +91,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.wloszynski.Main" />
-      <module name="ByteShortIntLong" />
+      <module name="FloatAndDouble" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -126,17 +110,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25e8e5ea-9b40-406b-a2df-a4f0d38f9242" name="Default Changelist" comment="" />
-      <created>1564234007558</created>
+      <changelist id="668f1275-bb10-4d9b-8b38-45e0d5bcc4ca" name="Default Changelist" comment="" />
+      <created>1564235683478</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564234007558</updated>
-      <workItem from="1564234011083" duration="1676000" />
+      <updated>1564235683478</updated>
+      <workItem from="1564235686974" duration="1795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1676000" />
+    <option name="totallyTimeSpent" value="1795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1515" y="25" width="1845" height="1055" extended-state="6" />
@@ -146,9 +130,9 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14763232" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09415042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32934782" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -178,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/wloszynski/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
