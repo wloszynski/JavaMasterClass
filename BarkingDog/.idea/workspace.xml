@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac0a3494-3fe7-43d4-bf2c-adad156f9121" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="db0e4179-af56-41e3-beeb-fc1b64772fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wloszynski/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpresions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpresions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/com/wloszynski/MegaBytesConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpeedConverter/src/SpeedConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wloszynski/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wloszynski/BarkingDog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -41,13 +61,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/wloszynski/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/wloszynski/BarkingDog.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1820" />
-    <option name="y" value="220" />
+    <option name="x" value="1515" />
+    <option name="y" value="25" />
     <option name="width" value="728" />
     <option name="height" value="810" />
   </component>
@@ -58,18 +79,29 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Operators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="BarkingDog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BarkingDog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BarkingDog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BarkingDog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BarkingDog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BarkingDog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wloszynski" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -77,10 +109,6 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,9 +123,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Operators" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wloszynski.Main" />
+      <module name="BarkingDog" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,23 +144,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ac0a3494-3fe7-43d4-bf2c-adad156f9121" name="Default Changelist" comment="" />
-      <created>1564240008846</created>
+      <changelist id="db0e4179-af56-41e3-beeb-fc1b64772fa8" name="Default Changelist" comment="" />
+      <created>1564290267607</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564240008846</updated>
-      <workItem from="1564240011339" duration="1651000" />
-      <workItem from="1564283209528" duration="47000" />
+      <updated>1564290267607</updated>
+      <workItem from="1564290270055" duration="428000" />
+      <workItem from="1564300429412" duration="1134000" />
+      <workItem from="1564303832439" duration="598000" />
+      <workItem from="1564319246969" duration="673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1698000" />
+    <option name="totallyTimeSpent" value="2833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1515" y="25" width="1845" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2529248" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26183844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -148,7 +181,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32934782" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -164,27 +197,19 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wloszynski/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="75">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/com/wloszynski/BarkingDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

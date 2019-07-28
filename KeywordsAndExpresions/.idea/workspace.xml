@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac0a3494-3fe7-43d4-bf2c-adad156f9121" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6f3e4f64-1f01-4e30-9921-6ef59fd7d007" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -57,19 +59,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Operators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="KeywordsAndExpresions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KeywordsAndExpresions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -97,7 +99,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Operators" />
+      <module name="KeywordsAndExpresions" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,18 +115,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ac0a3494-3fe7-43d4-bf2c-adad156f9121" name="Default Changelist" comment="" />
-      <created>1564240008846</created>
+      <changelist id="6f3e4f64-1f01-4e30-9921-6ef59fd7d007" name="Default Changelist" comment="" />
+      <created>1564283253717</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564240008846</updated>
-      <workItem from="1564240011339" duration="1651000" />
-      <workItem from="1564283209528" duration="47000" />
+      <updated>1564283253717</updated>
+      <workItem from="1564283257512" duration="3132000" />
+      <workItem from="1564287864043" duration="113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1698000" />
+    <option name="totallyTimeSpent" value="3245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1515" y="25" width="1845" height="1055" extended-state="6" />
@@ -166,8 +168,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="210">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
         </state>
       </provider>
     </entry>
